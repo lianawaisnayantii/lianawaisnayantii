@@ -1,0 +1,19 @@
+#container1 {
+    height: 100px;
+    width: 100px;
+    background-color: bisque;
+}
+
+#container2 {
+    margin: auto;
+    height: 100px;
+    width: 50%;
+    background-color: cyan;
+}
+
+#child1 {
+    margin: auto;
+    height: 80%;
+    width: 50%;
+    background-color: black;
+}
